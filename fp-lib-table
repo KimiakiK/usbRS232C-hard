@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usbRS232C")(type "KiCad")(uri "${KIPRJMOD}/usbRS232C.pretty")(options "")(descr ""))
+)
